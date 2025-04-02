@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer Sefa Çarıkçı</h1>
+<h1 align="center">Ömer Sefa Çarıkçı</h1>
 <h3 align="center">A possionate Software Developer and Cyber Security from Türkiye</h3>
 
 - How to reach me **omercarikci204@gmail.com**
