@@ -18,7 +18,7 @@
 
 **Github:** ["omersefacarikci"](https://www.github.com/omersefacarikci)
 
-**Gmail:** ["omer-sefa-carikci"](https://mail.google.com/omercarikci204@gmail.com)
+**Gmail:** ["omercarikci204@gmail.com"](mailto:omer-sefa-carikci@gmail.com)
 
 <br />
 
