@@ -50,4 +50,3 @@
 [linkedin]: https://www.linkedin.com/in/omer-sefa-carikci/
 [gmail]: mailto:omercarikci204@gmail.com
 [github]: https://github.com/omersefacarikci
-view raw05.GithubProfili.h hosted with ❤ by GitHub
