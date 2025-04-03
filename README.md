@@ -16,7 +16,9 @@
 ## Connect with me
 **LinkedIn:** ["omer-sefa-carikci"](https://www.linkedin.com/in/omer-sefa-carikci)
 
+**Github:** ["omer-sefa-carikci"](https://www.linkedin.com/in/omer-sefa-carikci)
 
+**Gmail:** ["omer-sefa-carikci"](https://www.linkedin.com/in/omer-sefa-carikci)
 
 <br />
 
