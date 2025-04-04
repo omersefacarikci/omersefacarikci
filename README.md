@@ -42,9 +42,11 @@
 
 ## GitHub Analytics 
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omersefacarikci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&locale=en&theme=radical" alt="omersefacarikci"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=omersefacarikci&theme=radical" alt="omersefacarikci streak"/>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=omersefacarikci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=omersefacarikci&theme=radical" alt="Commit Streak" />
+</p>
 
 
 </a>
