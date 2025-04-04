@@ -32,6 +32,7 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
 </p>
 <br />
 
