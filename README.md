@@ -7,7 +7,7 @@
 -  I want to collaborate with other developers in Java and Kotlin (mobile), C# (desktop), and Python.
 
 
-## What we are doing now
+## What we are doing now?
 - I'm studying Computer Programming.
 - I develop desktop and mobile applications.
 - I also work on cybersecurity and security-related projects.
