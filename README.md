@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/main/banner2.png" alt="Banner" />
 
 ## I'm a Student, Software Developer and Cyber Security!
 -  I am currently working in software development and cybersecurity.
