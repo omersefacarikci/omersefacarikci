@@ -9,7 +9,7 @@
 
 ## What we are doing now?
 - I'm studying Computer Programming.
-- I develop desktop and mobile applications.
+- I develop desktop, mobile and web applications.
 - I also work on cybersecurity and security-related projects.
 <br />
 
