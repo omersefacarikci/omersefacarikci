@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/main/banner2.png" alt="Banner" />
 
-## I'm a Student, Software Developer and Cyber Security!
+## I'm a Student, Software Developer and Cyber Security.
 -  I am currently working in software development and cybersecurity.
 -  I am learning advanced programming and security techniques.
 -  I want to collaborate with other developers in Java and Kotlin (mobile), C# (desktop), and Python.
