@@ -13,7 +13,7 @@
 - I also work on cybersecurity and security-related projects.
 <br />
 
-## Connect with me
+## Connect with me!
 **LinkedIn:** ["omer-sefa-carikci"](https://www.linkedin.com/in/omer-sefa-carikci)
 
 **Github:** ["omersefacarikci"](https://www.github.com/omersefacarikci)
@@ -22,7 +22,7 @@
 
 <br />
 
-## Languages and Tools
+## Languages and Tools!
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
@@ -40,7 +40,7 @@
 <br />
 <br />
 
-## GitHub Analytics 
+## GitHub Analytics! 
 
   <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=omersefacarikci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=gruvbox" alt="Top Languages" />
