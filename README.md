@@ -31,8 +31,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" height="25" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" height="25" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" height="25" />
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" title="C#" height="25" />
