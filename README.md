@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/main/banner2.png" alt="Banner" />
+<img src="https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/main/bannerlink.gif" alt="Banner" />
 
 ## I'm a Student, Software Developer and Cyber Security.
 -  I am currently working in software development and cybersecurity.
