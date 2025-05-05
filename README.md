@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/main/Ömer Sefa Çarıkçı.gif" alt="Banner" />
 
 ## I'm a Student, Software Developer and Cyber Security.
--  I am currently working in software development and cybersecurity.
+-  I am currently working in software development and cyber security.
 -  I am learning advanced programming and security techniques.
 -  I want to collaborate with other developers in Java and Kotlin (mobile), C# (desktop), and Python.
 
@@ -11,7 +11,7 @@
 - I'm studying Computer Programming.
 - I develop desktop, mobile and web applications.
 - I also work on cybersecurity and security-related projects.
-<br />
+<br/>
 
 ## Connect with me!
 <a href="https://www.linkedin.com/in/omer-sefa-carikci" target="_blank">
@@ -23,7 +23,6 @@
 <a href="mailto:omercarikci204@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 
 <br />
 
