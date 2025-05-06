@@ -49,9 +49,6 @@
 <br />
 
 
-<br />
-<br />
-
 ## GitHub Analytics! 
 
   <p align="center">
