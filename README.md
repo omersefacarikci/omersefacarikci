@@ -46,8 +46,7 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server" title="SQL Server" height="25" />
 
 </p>
-<br />
-
+<br/>
 
 ## GitHub Analytics! 
 
@@ -59,8 +58,6 @@
 
 
 </p>
-
-</a>
 
 <br />
 <br />
