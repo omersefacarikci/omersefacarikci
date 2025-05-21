@@ -53,7 +53,6 @@
   <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=omersefacarikci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=gruvbox" alt="Top Languages" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=omersefacarikci&theme=gruvbox" alt="GitHub Streak" />
 
 
 
