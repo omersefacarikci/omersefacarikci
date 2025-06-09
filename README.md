@@ -57,7 +57,7 @@
 </p>
 
 <br />
-<br />
+
 
 [linkedin]: https://www.linkedin.com/in/omer-sefa-carikci/
 [gmail]: mailto:omercarikci204@gmail.com
