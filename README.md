@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" title="Git" height="25" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" title="GitHub" height="25" />
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio" title="Visual Studio" height="25" />
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" title="PHP" height="25" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server" title="SQL Server" height="25" />
 
@@ -68,4 +67,3 @@
 [kotlin]: https://kotlinlang.org/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[php]: https://www.php.net/
