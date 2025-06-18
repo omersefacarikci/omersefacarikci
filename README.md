@@ -1,1 +1,41 @@
-<img src="https://github.com/omersefacarikci/omersefacarikci/blob/master/modern.gif" alt="Mokkapps GitHub README header image">
+<p align="center">
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/modern.gif" alt="Banner" />
+</p>
+
+<h1 align="center">I'm Ömer Sefa Çarıkçı</h1>
+
+---
+
+### About Me
+
+- I’m a passionate **Software Developer**  
+- I work actively in the field of **Cyber Security**  
+- I develop **desktop applications**  
+- I build **web projects** with modern technologies  
+- I create **Kotlin-based mobile applications**  
+
+---
+
+### Tech Interests
+ 
+- Secure coding practices  
+- Open-source collaboration  
+- Penetration testing and vulnerability research  
+
+---
+
+### Connect with me
+
+<p align="left"> <a href="mailto:omercarikci204@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/omersefacarikci" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/omer-sefa-carikci" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+
+---
+
+### Language 
+
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </p>
+
+---
+
+### GitHub 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersefacarikci&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/> </p>
