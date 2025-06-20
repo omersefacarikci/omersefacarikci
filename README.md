@@ -8,11 +8,11 @@
 
 ### About Me
 
-- I’m a passionate **Software Developer**  
-- I work actively in the field of **Cyber Security**  
-- I develop **desktop applications**  
-- I build **web projects** with modern technologies  
-- I create **Kotlin-based mobile applications**  
+- I’m a passionate **Software Developer**.  
+- I work actively in the field of **Cyber Security**.  
+- I develop **desktop applications**.  
+- I build **web projects** with modern technologies.  
+- I create **Kotlin-based mobile applications**.  
 
 ---
 
