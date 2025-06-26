@@ -38,4 +38,4 @@
 
 ### GitHub 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" /> </p> <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersefacarikci&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersefacarikci&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/> </p>
