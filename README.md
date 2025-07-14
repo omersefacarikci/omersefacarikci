@@ -2,7 +2,7 @@
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/linkedinbanner.gif" alt="Banner" />
 </p>
 
-<h1 align="center">->Ömer Sefa Çarıkçı</h1>
+<h1 align="center">Ömer Sefa Çarıkçı</h1>
 
 ---
 
