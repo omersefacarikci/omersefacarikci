@@ -53,6 +53,7 @@
 ### GitHub 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersefacarikci&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/> </p> <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omersefacarikci&theme=blackwhite" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omersefacarikci&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
