@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/githubbanner.gif" alt="Banner" />
 </p>
-<h1 align="center">Ömer Sefa Çarıkçı</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=2000&color=FFFFFF&font=Segoe+UI&width=600&lines=Ömer+Sefa+Çarıkçı;Cyber+Security+%26+Software+Developer;HexaRX+Cyber+Security+Community+Founder" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 ---
 
@@ -49,4 +55,4 @@
 
 ### GitHub 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersefacarikci&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersefacarikci&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/> </p> 
