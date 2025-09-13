@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/githubbanner.gif" alt="Banner" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/modern.gif" alt="Banner" />
 </p>
 <h1 align="center">Ömer Sefa Çarıkçı</h1>
 
