@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/Black Modern Geometric Personal LinkedIn Banner.gif" alt="Banner" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/banneer.gif" alt="Banner" />
 </p>
 <h1 align="center">Ömer Sefa Çarıkçı</h1>
 
