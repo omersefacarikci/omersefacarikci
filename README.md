@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/cover.gif" alt="Banner" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/githubmain.gif" alt="Banner" />
 </p>
-<h1 align="center">Ömer Sefa Çarıkçı</h1>
+
 
 ---
 
