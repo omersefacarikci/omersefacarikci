@@ -2,7 +2,6 @@
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/githubmain.gif" alt="Banner" />
 </p>
 
-
 ---
 
 ### About Me
