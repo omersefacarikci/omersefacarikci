@@ -4,7 +4,7 @@
 
 ---
 
-### About Me
+### About
 
 - I’m a passionate **Software Developer**.  
 - I work actively in the field of **Cyber Security**.  
