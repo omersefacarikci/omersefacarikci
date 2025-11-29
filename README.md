@@ -58,7 +58,7 @@
 
 ### GitHub Statistics
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=omersefacarikci&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />  
+
 
 
 
