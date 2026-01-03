@@ -2,8 +2,6 @@
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/githubmain.gif" alt="Banner" />
 </p>
 
----
-
 ### About
 
 - I’m a passionate **Software Developer**.  
@@ -12,7 +10,9 @@
 - I build **web projects** with modern technologies.  
 - I create **Kotlin-mobile applications**.  
 
----
+
+<p align="center">• • •</p>
+
 
 ### Tech Interests
  
@@ -20,7 +20,9 @@
 - Open-source collaboration  
 - Penetration testing and vulnerability research  
 
----
+
+<p align="center">• • •</p>
+
 
 ### Connect with me
 
@@ -34,7 +36,8 @@
 </p>
 
 
----
+<p align="center">• • •</p>
+
 
 ### Languages 
 
@@ -46,8 +49,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-  
----
+
+<p align="center">• • •</p>
+
 
 ### Database Technologies  
 
@@ -57,7 +61,9 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
 </p>
 
----
+
+<p align="center">• • •</p>
+
 
 ### DevOps & Tools
 
@@ -69,7 +75,9 @@
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
 </p>
 
----
+
+<p align="center">• • •</p>
+
 
 ### Operating System
 
@@ -79,4 +87,9 @@
 </p>
 
 
+<p align="center">• • •</p>
 
+
+<p align="center">
+  © 2026 Ömer Sefa Çarıkçı
+</p>
