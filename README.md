@@ -2,6 +2,7 @@
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/githubmain.gif" alt="Banner" />
 </p>
 
+
 ### About
 
 - I’m a passionate **Software Developer**.  
@@ -11,8 +12,7 @@
 - I create **Kotlin-mobile applications**.  
 
 
-<p align="center">• • •</p>
-
+---
 
 ### Tech Interests
  
@@ -21,7 +21,7 @@
 - Penetration testing and vulnerability research  
 
 
-<p align="center">• • •</p>
+---
 
 
 ### Connect with me
@@ -36,7 +36,7 @@
 </p>
 
 
-<p align="center">• • •</p>
+---
 
 
 ### Languages 
@@ -50,7 +50,7 @@
 </p>
 
 
-<p align="center">• • •</p>
+---
 
 
 ### Database Technologies  
@@ -62,7 +62,7 @@
 </p>
 
 
-<p align="center">• • •</p>
+---
 
 
 ### DevOps & Tools
@@ -76,7 +76,7 @@
 </p>
 
 
-<p align="center">• • •</p>
+---
 
 
 ### Operating System
@@ -87,7 +87,7 @@
 </p>
 
 
-<p align="center">• • •</p>
+---
 
 
 <p align="center">
