@@ -20,7 +20,7 @@
 
 ---
 
-### Connect with me
+### Contact Information
 
 <p align="left">
   <a href="mailto:omercarikci204@gmail.com" target="_blank">
