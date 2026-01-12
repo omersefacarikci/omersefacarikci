@@ -79,3 +79,4 @@
 <p align="center">
   © 2026 Ömer Sefa Çarıkçı
 </p>
+![Snake animation](https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/output/github-contribution-grid-snake.svg)
