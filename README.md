@@ -79,4 +79,4 @@
 <p align="center">
   © 2026 Ömer Sefa Çarıkçı
 </p>
-![snake gif](https://github.com/omersefacarikci/omersefacarikci/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/output/github-contribution-grid-snake.gif)
