@@ -2,7 +2,9 @@
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/githubmain.gif" alt="Banner" />
 </p>
 
-### About
+### About Me
+
+I focus on building software with a security-first and secure-by-design mindset.
 
 - I’m a passionate **Software Developer**.  
 - I work actively in the field of **Cyber Security**.  
@@ -20,7 +22,7 @@
 
 ---
 
-### Contact Information
+### Contact
 
 <p align="left">
   <a href="mailto:omercarikci204@gmail.com" target="_blank">
@@ -33,7 +35,9 @@
 
 ---
 
-### Languages 
+### Programming & Markup Languages 
+
+Technologies I actively use for backend, desktop, and mobile application development:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -45,7 +49,7 @@
 
 ---
 
-### Database Technologies  
+### Database & Data Technologies  
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
@@ -55,7 +59,7 @@
 
 ---
 
-### DevOps & Tools
+### DevOps, Messaging & Infrastructure Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,7 +73,7 @@
 
 ---
 
-### Operating System
+### Operating Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> 
