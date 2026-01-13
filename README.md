@@ -36,9 +36,6 @@ I focus on building software with a security-first and secure-by-design mindset.
 ---
 
 ### Programming & Markup Languages 
-
-Technologies I actively use for backend, desktop, and mobile application development:
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
