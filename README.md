@@ -6,7 +6,7 @@
 
 I focus on building software with a security-first and secure-by-design mindset.
 
-- I’m a passionate **Backend Developer**.  
+- I’m a passionate **Full Stack Developer**.  
 - I work actively in the field of **Cyber Security**.  
 - I develop **desktop applications**.  
 - I build **web projects** with modern technologies.  
