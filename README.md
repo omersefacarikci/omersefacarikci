@@ -9,9 +9,8 @@ I focus on building software with a security-first and secure-by-design mindset.
 - I’m a passionate **Full-Stack Developer**.  
 - I work actively in the field of **Cyber Security**.  
 - I develop **desktop applications**.  
-- I build **web projects** with modern technologies.  
-- I create **Kotlin-mobile applications**.  
-
+- I build **web projects** with modern technologies.
+- 
 ---
 
 ### Tech Interests
@@ -42,7 +41,6 @@ I focus on building software with a security-first and secure-by-design mindset.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
