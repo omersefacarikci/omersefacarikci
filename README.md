@@ -2,7 +2,7 @@
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/omersefacarikci-banner.gif" alt="Banner" />
 </p>
 
-### About Me
+### About
 
 I focus on building software with a security-first and secure-by-design mindset.
 
