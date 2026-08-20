@@ -97,5 +97,5 @@ I focus on building software with a security-first and secure-by-design mindset.
 ---
 
 <p align="center">
-  © 2026 Ömer Sefa Çarıkçı
+  Ömer Sefa Çarıkçı
 </p>
