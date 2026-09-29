@@ -1,4 +1,4 @@
-<img src="./img/omersefacarikci.gif">
+<img src="./img/omersefacarikci-github.gif">
 
 ### About
 
