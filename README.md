@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/omersefacarikci-banner.gif" alt="Banner" />
-</p>
+<img src="./img/banner-omersefacarikci.gif">
 
 ### About
 
